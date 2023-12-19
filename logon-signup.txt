@@ -1,0 +1,2 @@
+esres can login withemail and password
+users can sign with name, email and password
